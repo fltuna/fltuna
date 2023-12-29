@@ -21,7 +21,7 @@ I have interested to(but not touched yet):
 
 ## Where is Java codes?
 
-Take a look into this [repo](https://github.com/faketunaPrivateCamp). (Over half of repositories are private for some reason. Sorry!)
+Take a look into this [organization](https://github.com/faketunaPrivateCamp). (Over half of repositories are private for some reason. Sorry!)
 
 ## Contact
 
