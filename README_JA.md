@@ -2,7 +2,7 @@
 
 # こんちゃす
 
-## 一生成長しないプログラマです
+## 一生初心者のプログラマです
 
 趣味として2020年からバグを生み出し続けてます。
 
@@ -25,9 +25,6 @@
 
 ## 連絡先
 
-I got nervous when talk with stranger, so sometimes declines contact if you take suspicious action to me.
-
 基本的に初対面の人とかと話す事が苦手なので、怪しいムーブされると連絡を無視する可能性があります。
 
-* [VRChat](https://vrchat.com/home/user/usr_37bad4e6-9257-49f6-a98e-b9541b06175e)にフレンドリクエストを送って私の居るインスタンスにJoin
 * [Twitter](https://twitter.com/ft_vrc)にDM飛ばしてください。

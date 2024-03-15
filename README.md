@@ -27,5 +27,4 @@ Take a look into this [organization](https://github.com/faketunaPrivateCamp). (O
 
 I got nervous when talk with stranger, so sometimes declines contact if you take suspicious action to me.
 
-* Send friend request and join to my instance in [VRChat](https://vrchat.com/home/user/usr_37bad4e6-9257-49f6-a98e-b9541b06175e)
 * Send DM to my [Twitter](https://twitter.com/ft_vrc)
