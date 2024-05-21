@@ -6,12 +6,11 @@
 
 I'm a hobby programmer who loves programming and producing bugs since 2020.
 
-Mainly writes Java/Kotlin and SourcePawn. Currently spent times to SourcePawn.
+Mainly writes Java/Kotlin and SourcePawn. Currently spent times to CounterStrikeSharp (C#).
 
 I have interested to(but not touched yet):
 * Reverse Engineering
 * IT infrastructure (k8s, VM, Networking)
-* Writing Desktop Application w/ C# or C++
 
 ## Stats
 

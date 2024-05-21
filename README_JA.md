@@ -6,12 +6,11 @@
 
 趣味として2020年からバグを生み出し続けてます。
 
-基本的にはJava/KotlinとSourcePawnで色々書いてます。 現在はSourcePawnにお熱
+基本的にはJava/KotlinとSourcePawnで色々書いてます。 現在はCounterStrikeSharp (C#)書いてます
 
 以下のことに興味があります(まだ手を出してないけど):
 * リバースエンジニアリング
 * ITインフラ (k8s, VM, Networking)
-* C# か C++でデスクトップアプリケーション書いてみる。.NETあたりとかでね
 
 ## Stats
 
