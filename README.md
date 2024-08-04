@@ -2,13 +2,11 @@
 
 # Hello there
 
-## Beginner programmer 24/7
-
 I'm a hobby programmer who loves programming and producing bugs since 2020.
 
 Mainly writes Java/Kotlin and SourcePawn. Currently spent times to CounterStrikeSharp (C#).
 
-I have interested to(but not touched yet):
+I have also interested to:
 * Reverse Engineering
 * IT infrastructure (k8s, VM, Networking)
 
