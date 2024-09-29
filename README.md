@@ -24,4 +24,10 @@ Take a look into this [organization](https://github.com/faketunaPrivateCamp). (O
 
 I got nervous when talk with stranger, so sometimes declines contact if you take suspicious action to me.
 
-* Send DM to my [Twitter](https://twitter.com/ft_vrc)
+** Currently I don't have any Social Media account to contact us -**
+
+So please use [Discussion Thread](https://github.com/faketuna/faketuna/discussions) of my profile repository to contact us instead of Social Media.
+
+Also discussion thread is public so all of contents are visible to everyone.
+
+If you want to discuss privately, Please send Email to my [Gmail](mailto:faketuna.st@gmail.com). You need to include "From GitHub" (e.g. From GitHub Profile. Hello! I have questions about blah blah) in subject, otherwise will be ignored.
