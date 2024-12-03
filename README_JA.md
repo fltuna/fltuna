@@ -12,9 +12,9 @@
 
 ## Stats
 
-[![faketuna's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=faketuna&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+[![fltuna's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fltuna&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=faketuna&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=fltuna&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Javaコードどこやねん
 
@@ -26,7 +26,7 @@
 
 ** 現在SNSアカウントを一つも運用していません。 **
 
-ですので、私のプロフィールリポジトリにある[ディスカッションスレッド](https://github.com/faketuna/faketuna/discussions)にご連絡をお願いいたします。
+ですので、私のプロフィールリポジトリにある[ディスカッションスレッド](https://github.com/fltuna/fltuna/discussions)にご連絡をお願いいたします。
 
 また、ディスカッションスレッドはパブリックなため、会話内容がすべて公開されます。
 

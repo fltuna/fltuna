@@ -12,9 +12,9 @@ I have also interested to:
 
 ## Stats
 
-[![faketuna's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=faketuna&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+[![fltuna's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fltuna&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=faketuna&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=fltuna&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where is Java codes?
 
@@ -26,7 +26,7 @@ I got nervous when talk with stranger, so sometimes declines contact if you take
 
 ** Currently I don't have any Social Media account to contact us -**
 
-So please use [Discussion Thread](https://github.com/faketuna/faketuna/discussions) of my profile repository to contact us instead of Social Media.
+So please use [Discussion Thread](https://github.com/fltuna/fltuna/discussions) of my profile repository to contact us instead of Social Media.
 
 Also discussion thread is public so all of contents are visible to everyone.
 
