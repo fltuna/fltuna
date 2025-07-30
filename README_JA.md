@@ -2,13 +2,32 @@
 
 # こんちゃす
 
-趣味として2020年からバグを生み出し続けてます。
+2020年からバグを生み出し続けてます。
 
-基本的にはJava/KotlinとSourcePawnで色々書いてます。 現在はCounterStrikeSharp (C#)書いてます
+バックエンド寄りの人です。
 
-以下のことにも興味があります:
-* リバースエンジニアリング
-* ITインフラ (k8s, VM, Networking)
+
+## 技術スタック
+
+1. 静的型付け言語が好きです
+2. 趣味でゲームサーバーのプラグイン書いてます
+3. お仕事ではWeb系のバックエンド担当してます
+
+### 言語 / フレームワーク
+
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,cpp,cs,python,dotnet,django,spring)](https://go-skill-icons.vercel.app)
+
+### その他
+
+[![Others](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,redis,cloudflare,docker,nginx,tailscale,gradle)](https://go-skill-icons.vercel.app)
+
+### ツール
+
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,rider,idea,visualstudio,vscode,cursor,insomnia,figma,unity)](https://go-skill-icons.vercel.app)
+
+あと、Ghidra
+
+
 
 ## Stats
 
@@ -24,10 +43,6 @@
 
 基本的に初対面の人とかと話す事が苦手なので、怪しいムーブされると連絡を無視する可能性があります。
 
-** 現在SNSアカウントを一つも運用していません。 **
+基本的にはDiscordからの連絡のみ受け付けています。
 
-ですので、私のプロフィールリポジトリにある[ディスカッションスレッド](https://github.com/fltuna/fltuna/discussions)にご連絡をお願いいたします。
-
-また、ディスカッションスレッドはパブリックなため、会話内容がすべて公開されます。
-
-プライベートな内容を話したい場合は、私の[Gmail](mailto:faketuna.st@gmail.com)にメールを送信してください。 また件名に 「GitHub Profileから」(例: GitHub Profileから 〇〇について) を含めてください。 それ以外は基本的に無視されます。
+Discord: `@ftnd`

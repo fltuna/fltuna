@@ -2,13 +2,31 @@
 
 # Hello there
 
-I'm a hobby programmer who loves programming and producing bugs since 2020.
+I'm a programmer who produces bugs since 2020.
 
-Mainly writes Java/Kotlin and SourcePawn. Currently spent times to CounterStrikeSharp (C#).
+Focused to backend development.
 
-I have also interested to:
-* Reverse Engineering
-* IT infrastructure (k8s, VM, Networking)
+## Tech Stacks
+
+1. I LOVE STATIC TYPED LANGUAGES
+2. Developing the Game Server Plugin in hobby
+3. Web Backend in job
+
+### Languages / Frameworks
+
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,cpp,cs,python,dotnet,django,spring)](https://go-skill-icons.vercel.app)
+
+### Others
+
+[![Others](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,redis,cloudflare,docker,nginx,tailscale,gradle)](https://go-skill-icons.vercel.app)
+
+### Tools
+
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,rider,idea,visualstudio,vscode,cursor,insomnia,figma,unity)](https://go-skill-icons.vercel.app)
+
+Also, Ghidra
+
+
 
 ## Stats
 
@@ -24,10 +42,6 @@ Take a look into this [organization](https://github.com/faketunaPrivateCamp). (O
 
 I got nervous when talk with stranger, so sometimes declines contact if you take suspicious action to me.
 
-** Currently I don't have any Social Media account to contact us -**
+Basically, I'm only accepting contacts in Discord.
 
-So please use [Discussion Thread](https://github.com/fltuna/fltuna/discussions) of my profile repository to contact us instead of Social Media.
-
-Also discussion thread is public so all of contents are visible to everyone.
-
-If you want to discuss privately, Please send Email to my [Gmail](mailto:faketuna.st@gmail.com). You need to include "From GitHub" (e.g. From GitHub Profile. Hello! I have questions about blah blah) in subject, otherwise will be ignored.
+Discord: `@ftnd`
