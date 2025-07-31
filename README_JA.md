@@ -19,14 +19,25 @@
 
 ### その他
 
-[![Others](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,redis,cloudflare,docker,nginx,tailscale,gradle)](https://go-skill-icons.vercel.app)
+[![Others](https://go-skill-icons.vercel.app/api/icons?i=redis,cloudflare,docker)](https://go-skill-icons.vercel.app)
+
+<details><summary>Also I can</summary>
+
+[![Others](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,nginx,gradle)](https://go-skill-icons.vercel.app)
+
+</details>
 
 ### ツール
 
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,rider,idea,visualstudio,vscode,cursor,insomnia,figma,unity)](https://go-skill-icons.vercel.app)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=rider,idea,visualstudio,vscode,cursor,)](https://go-skill-icons.vercel.app)
+
+<details><summary>Also I'm using</summary>
+
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,insomnia,figma,unity)](https://go-skill-icons.vercel.app)
 
 あと、Ghidra
 
+</details>
 
 
 ## Stats
